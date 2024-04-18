@@ -3,7 +3,7 @@ Aprendendo Lógica de Programação com JavaScript.
 Este projeto, desenvolvido em colaboração com o programa Trilhas e a plataforma educacional Alura, tem como objetivo fornecer uma introdução prática e envolvente à lógica de programação utilizando JavaScript como linguagem de implementação. Durante este projeto, pude não apenas compreender os fundamentos da lógica de programação, mas também mergulhar profundamente no mundo das funções em JavaScript.
 
 Link do Game Multiplayer: https://pong-game-multiplayer.vercel.app/                                                                          
-Link do Game Singleplayer:
+Link do Game Singleplayer: https://pong-game-navy.vercel.app/
 
 Instruções para Jogar:
 
