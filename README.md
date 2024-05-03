@@ -1,4 +1,4 @@
-Aprendendo Lógica de Programação com JavaScript.
+<h1>Aprendendo Lógica de Programação com JavaScript.</h1>
 
 Este projeto, desenvolvido em colaboração com o programa Trilhas e a plataforma educacional Alura, tem como objetivo fornecer uma introdução prática e envolvente à lógica de programação utilizando JavaScript como linguagem de implementação. Durante este projeto, pude não apenas compreender os fundamentos da lógica de programação, mas também mergulhar profundamente no mundo das funções em JavaScript.
 
